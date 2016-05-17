@@ -1,0 +1,14 @@
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\bin\Debug\ChildProcessesTest.exe.config
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\bin\Debug\ChildProcessesTest.exe
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\bin\Debug\ChildProcessesTest.pdb
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.csprojResolveAssemblyReference.cache
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\MainWindow.g.cs
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\App.g.cs
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest_MarkupCompile.cache
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest_MarkupCompile.lref
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\MainWindow.baml
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.g.resources
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.Properties.Resources.resources
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.csproj.GenerateResource.Cache
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.exe
+C:\Users\kyler\Documents\Visual Studio 2015\Projects\ChildProcessesTest\ChildProcessesTest\obj\Debug\ChildProcessesTest.pdb
