@@ -45,3 +45,15 @@ foreach(Process process in processList)
 ```
 
 - This last bit of code should help you keep track of when each and every child process is finished.
+- We can finish the code by creating the childProcess_Exited event method stated in the lambda in the foreach method above.
+
+```C#
+private void childProcess_Exited(object sender, System.EventArgs e, Process process)
+ {
+     childsExited++;
+     Console.WriteLine("Child Process Exited: " + process.ProcessName);
+
+     if (childsExited == childCount)
+         Console.WriteLine("All child processes have exited.");
+ }
+```
