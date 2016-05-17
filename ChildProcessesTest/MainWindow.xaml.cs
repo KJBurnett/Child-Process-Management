@@ -32,6 +32,7 @@ namespace ChildProcessesTest
 
         private void StartButton_Click(object sender, RoutedEventArgs e)
         {
+            // Replace the MinecraftLauncher.exe path with whichever program you wish to launch!
             Process proc = Process.Start("F:\\Games\\Minecraft\\MinecraftLauncher.exe");
             proc.WaitForExit();
             Console.WriteLine("Process has exited");
