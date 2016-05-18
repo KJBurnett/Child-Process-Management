@@ -7,8 +7,8 @@ Observing child processes created from parent processes.
  
 ```C#
 Process proc = Process.Start("F:\\Games\\Minecraft\\MinecraftLauncher.exe");
-  proc.WaitForExit();
-  Console.WriteLine("Process has exited");
+proc.WaitForExit();
+Console.WriteLine("Process has exited");
 ```
 
 - There is a problem with this code though, even though the process has exited, there is the possibility that the user pressed the "PLAY" button within the launcher, this would close the launcher and open a new child process containing the actual game. This means that if you wished to record the length of the program running, where "proc.WaitForExit()" finished is not the true end of its life cycle.
