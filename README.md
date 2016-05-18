@@ -33,7 +33,7 @@ public static IEnumerable<Process> GetChildProcesses(this Process process)
 }
 ```
 
-- Finally, we can finish this program by adding to each process returned from "GetChildProcesses" an eventhanlder for when the process is exited.
+- Finally, we can finish this program by adding to each process returned from "GetChildProcesses" an eventhandler for when the process is exited.
 
 ```C#
 foreach(Process process in processList)
